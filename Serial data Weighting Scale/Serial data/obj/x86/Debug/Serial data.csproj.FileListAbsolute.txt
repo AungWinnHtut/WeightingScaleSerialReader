@@ -1,0 +1,18 @@
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data\Serial data\bin\Debug\Serial data.exe
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data\Serial data\bin\Debug\Serial data.pdb
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data\Serial data\obj\x86\Debug\Serial_data.frmSerial.resources
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data\Serial data\obj\x86\Debug\Serial_data.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data\Serial data\obj\x86\Debug\Serial data.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data\Serial data\obj\x86\Debug\Serial data.exe
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data\Serial data\obj\x86\Debug\Serial data.pdb
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data\Serial data\obj\x86\Debug\Serial data.csprojResolveAssemblyReference.cache
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data Weighting Scale\Serial data\obj\x86\Debug\Serial data.exe
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data Weighting Scale\Serial data\obj\x86\Debug\Serial data.pdb
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data Weighting Scale\Serial data\bin\Debug\Serial data.exe
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data Weighting Scale\Serial data\bin\Debug\Serial data.pdb
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data Weighting Scale\Serial data\obj\x86\Debug\Serial data.csprojResolveAssemblyReference.cache
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data Weighting Scale\Serial data\obj\x86\Debug\Serial_data.frmSerial.resources
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data Weighting Scale\Serial data\obj\x86\Debug\Serial_data.Properties.Resources.resources
+F:\Drive F - Online Training\!Online Video Training\C#\Projects\Serial data Weighting Scale\Serial data\obj\x86\Debug\Serial data.csproj.GenerateResource.Cache
+F:\Drive F - Online Training\!Online Video Training\Arduino\Recording\Sheila\Serial data Weighting Scale\Serial data Weighting Scale\Serial data\obj\x86\Debug\Serial data.exe
+F:\Drive F - Online Training\!Online Video Training\Arduino\Recording\Sheila\Serial data Weighting Scale\Serial data Weighting Scale\Serial data\obj\x86\Debug\Serial data.pdb
